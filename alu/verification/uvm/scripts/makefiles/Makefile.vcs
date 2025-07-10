@@ -27,7 +27,6 @@ SCRIPTS_DIR := $(UVM_DIR)/scripts
 VERDI_DIR   := $(SCRIPTS_DIR)/verdi
 RTL_DIR     := $(GIT_DIR)/rtl
 DPI_DIR     := $(UVM_DIR)/dpi
-/alu
 # UVM configurations
 TEST ?= top_test
 VERBOSITY ?= UVM_MEDIUM
