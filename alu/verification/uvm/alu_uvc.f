@@ -1,5 +1,5 @@
-+incdir+verification/uvm/sv
-+incdir+verification/uvm/sv/seqlib
++incdir+$GIT_ROOT/alu/verification/uvm/sv
++incdir+$GIT_ROOT/alu/verification/uvm/sv/seqlib
 
-/home/enrique.namigtle/Sumador/verification/uvm/sv/alu_uvc_pkg.sv
-/home/enrique.namigtle/Sumador/verification/uvm/sv/alu_uvc_if.sv
+$GIT_ROOT/alu/verification/uvm/sv/alu_uvc_pkg.sv
+$GIT_ROOT/alu/verification/uvm/sv/alu_uvc_if.sv
