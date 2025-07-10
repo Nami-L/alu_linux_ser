@@ -6,7 +6,7 @@ module tb;
   import top_test_pkg::*;
 
  // Clock signal
-  localparam time CLK_PERIOD = 20ns;
+  localparam time CLK_PERIOD = 10ns;
   logic clk_i = 0;
   always #(CLK_PERIOD / 2) clk_i = ~clk_i;
   
